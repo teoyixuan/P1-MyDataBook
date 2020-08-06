@@ -14,4 +14,12 @@
         android:gravity="center"
         android:text="C347 - Android Programming II\n Republic Polytechnic"
         android:textSize="24sp" />
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:srcCompat="@tools:sample/avatars" />
+
+
 </LinearLayout>
